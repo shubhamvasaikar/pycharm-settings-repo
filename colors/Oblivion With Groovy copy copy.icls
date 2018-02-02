@@ -4,7 +4,7 @@
     <property name="created">2016-09-29T14:25:48</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2016.2.3.0.0</property>
-    <property name="modified">2017-10-29T21:50:27</property>
+    <property name="modified">2018-02-02T14:36:14</property>
     <property name="originalScheme">Oblivion With Groovy copy</property>
   </metaInfo>
   <font>
@@ -604,7 +604,6 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="d8d8d8" />
         <option name="ERROR_STRIPE_COLOR" value="d8d8d8" />
       </value>
     </option>
